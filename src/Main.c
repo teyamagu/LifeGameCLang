@@ -4,7 +4,7 @@
  Author      : teyamagu
  Version     :
  Copyright   : teyamagu
- Description : LigeGame C Lang. Sample
+ Description : LifeGame with C Lang. Sample
  ============================================================================
  */
 
